@@ -6,7 +6,7 @@ It intercepts the boot process right after the kernel loads (in the initramfs), 
 
 
 ## Screenshots
-<img src="/" width="300"/>
+<img src="Screenshot_20260323_014619.png" width="300"/>
 
 ### Currently Implemented (v0.1 – Prototype / Test Phase)
 
@@ -45,7 +45,7 @@ This project aims to fill that gap: make tinkering, kernel testing, and possibly
 
 This is **not installable yet** on real devices — it's in development.
 
-For testing the keyboard prototype on your Arch machine:
+For testing the keyboard prototype on Arch (or any other):
 
 ```bash
 git clone https://github.com/eelis-04/cbhc-mod.git
