@@ -1,6 +1,6 @@
 # CBHC-mod – Coldboot Menu for PostmarketOS
 
-**CBHC-mod** is an early-boot boot menu / tool for PostmarketOS mobile Linux devices, inspired by the **Coldboot Haxchi (CBHC)** from the Wii U homebrew scene by FIX94 and the community.
+**CBHC-mod** is an early-boot boot menu / tool for PostmarketOS mobile Linux devices, inspired by the **Coldboot Haxchi (CBHC)** from the Wii U homebrew scene by FIX94 and the community. The name may change in the future.
 
 It intercepts the boot process right after the kernel loads (in the initramfs), providing a simple text-based menu to choose boot options, debug, recover, or experiment — all without needing a PC (most of the time).
 
