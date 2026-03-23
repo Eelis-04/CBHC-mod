@@ -6,7 +6,7 @@ It intercepts the boot process right after the kernel loads (in the initramfs), 
 
 
 ## Screenshots
-<img src="Screenshot_20260323_014619.png" width="300"/>
+<img src="Screenshot_20260323_014619.png" width="600"/>
 
 ### Currently Implemented (v0.1 – Prototype / Test Phase)
 
